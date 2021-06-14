@@ -1,4 +1,10 @@
-# nuxt-pwa-test
+# kernfeature-pocc
+
+## Information
+Proof-of-Concept fürs Endprojekt, der Offline-Storage und PWA-Funktionalität demonstriert.
+
+[Link zum Repo](https://github.com/lukasbachlechner/kernfeature-poc)
+[Link zum Deployment](https://kernfeature-poc.vercel.app)
 
 ## Build Setup
 
